@@ -4,6 +4,14 @@ This is a simple Vanilla Javascript Frontend CRUD that uses Object Orientend Pro
 
 ![](docs/screenshot.png)
 
+# Requirements
+- Docker must be installed on your local machine.
+- command to install Docker as per your linux distribution
+- $ sudo yum install docker -y
+        or
+- $ sudo apt-get install docker.io
+- You do not need a Java JDK
+
 # Installation
 
 ```
